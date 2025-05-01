@@ -8,6 +8,22 @@ Takes input for multiple medicines and timings
 - Uses lists and for loop to manage reminders
 Beginner-friendly and pharmacy-relevant use case
 
+### Skills used
+
+Python
+
+Lists
+
+For Loops
+
+Indexing
+
+f-Strings
+
+Console Output
+
+
+
 
 ### Sample Output:
 Reminder: Take Paracetamol in the morning.
